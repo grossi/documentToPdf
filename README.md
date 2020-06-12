@@ -22,7 +22,7 @@ URL to download.
 
 Type: `string`
 
-Name of the file, must contain it the file extension.
+Name of the file, must contain the file extension.
 
 #### outputName
 
